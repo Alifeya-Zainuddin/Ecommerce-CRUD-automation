@@ -1,4 +1,4 @@
-# Ecommerce-CRUD-automation
+# E-Commerce Product Information Management System
 ## Overview
 
 This project aims to streamline and automate the management of product information for e-commerce businesses using Python. By harnessing CRUD operations (Create, Retrieve, Update, Delete), this system enables efficient handling of sales data, product details, and product descriptions. Designed to enhance data accuracy, consistency, and operational efficiency, this system eliminates the need for time-consuming and error-prone manual data entry.
