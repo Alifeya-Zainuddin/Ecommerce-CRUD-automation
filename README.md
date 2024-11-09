@@ -31,3 +31,24 @@ The project files are organized as follows:
   - **`product_details/`** - Folder with JSON files, each representing detailed information for a product, indexed by SKU.
   - **`product_description/`** - Folder with TXT files, each containing a product description, indexed by SKU.
 
+---
+
+## Project Tasks
+- **Task 1 -** Import required modules
+- **Task 2 -** Load the data
+- **Task 3 -** Explore the data
+- **Task 4 -** Add sales data
+- **Task 5 -** Add product details
+- **Task 6 -** Add product description
+- **Task 7 -** Create function
+- **Task 8 -** Display sales data
+- **Task 9 -** Display product details
+- **Task 10 -** Display product description
+- **Task 11 -** Read function
+- **Task 12 -** Update sales data
+- **Task 13 -** Update product details
+- **Task 14 -** Update product description
+- **Task 15 -** Update function
+- **Task 16 -** Delete function
+- **Task 17 -** Save data to disk
+- **Task 18 -** Create a user menu
