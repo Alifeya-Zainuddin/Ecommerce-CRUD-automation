@@ -31,14 +31,3 @@ The project files are organized as follows:
   - **`product_details/`** - Folder with JSON files, each representing detailed information for a product, indexed by SKU.
   - **`product_description/`** - Folder with TXT files, each containing a product description, indexed by SKU.
 
----
-
-## Prerequisites
-
-Ensure you have the following Python packages installed:
-
-```python
-import os
-import json
-import csv
-import pprint
